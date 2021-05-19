@@ -23,13 +23,13 @@
     "@lib/nest-starter": "git+ssh://git@github.com:somehowchris/nest-commons-lib.git",
     "@nestjs/common": "^6.7.2",
     "@nestjs/core": "^6.7.2",
-    "@nestjs/microservices": "^7.0.6",
+    "@nestjs/microservices": "^7.6.15",
     "@nestjs/platform-express": "^6.7.2",
     "class-transformer": "^0.4.0",
-    "class-validator": "^0.12.0-rc.0",
+    "class-validator": "^0.13.1",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.0",
-    "rxjs": "^6.5.3"
+    "rxjs": "^6.6.7"
   },
   "devDependencies": {
     "@nestjs/cli": "^6.9.0",
